@@ -1,0 +1,25 @@
+*.svn
+*.psd
+*userfiles
+*templates_c
+*img-optimized
+*node_modules
+*.tmp
+*.sass-cache
+
+# .net
+*obj/
+*Properties/
+
+# OS or Editor folders
+.DS_Store
+.cache
+.project
+.settings
+.tmproj
+*nbprojects
+*nbproject
+Thumbs.db
+
+*.sublime-project
+*.sublime-workspace
